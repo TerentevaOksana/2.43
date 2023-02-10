@@ -2,4 +2,4 @@
 Вариант 20
 № 2.43
 Даны два целых числа a и b. Если aделится на b или b делится на a, то вывести 1, иначе — любое другое число. Условные операторы и операторы цикла не использовать.
-[image](https://user-images.githubusercontent.com/113889184/218053143-b0cceafb-5727-4a98-a317-2a38c869ef9a.png)
+[image](https://user-images.githubusercontent.com/113889184/218054664-944dc1e6-d00b-4084-afea-e20e416fb47f.png)
